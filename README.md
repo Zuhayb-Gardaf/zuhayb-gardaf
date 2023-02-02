@@ -1,6 +1,6 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg)
 <h1 align="center">Hi 👋, I'm Suhayb Gardaf</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Hargeisa</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhayb-gardaf&label=Profile%20views&color=0e75b6&style=flat" alt="zuhayb-gardaf" /> </p>
